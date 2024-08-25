@@ -1,0 +1,16 @@
+.form-group{
+  padding: 0%;
+}
+.form-control{
+  margin: 1%;
+}
+label{
+  font-size: 100%;
+  font-weight: normal;
+}
+.card{
+  padding:3% 20%;
+}
+.card-header{
+  font-weight: bold;
+}
